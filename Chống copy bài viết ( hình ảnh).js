@@ -2,7 +2,7 @@ function FSAddOriginalLink(){
     var body_element = document.getElementsByTagName('body')[0];
     var selection;
     selection = window.getSelection();
-    var pagelink = "<br/><br/>Hãy liên hệ với tôi bạn nhé : <a href='https://q7riversidecomplexht.blogspot.com/'>https://q7riversidecomplexht.blogspot.com/"+document.location.pathname+"</a>";
+    var pagelink = "<br/><br/>Hãy liên hệ với tôi  : <a href='https://q7riversidecomplexht.blogspot.com/'>https://q7riversidecomplexht.blogspot.com/"+document.location.pathname+"</a>";
     var copytext = pagelink;
     var newdiv = document.createElement('div');
     newdiv.style.position='absolute';
