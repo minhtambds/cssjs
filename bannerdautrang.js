@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://q7riversidecomplexht.blogspot.com/' target='_blank'><img src='http://hungthinhland24h.vn/upload/images/0014(1).jpg' width='500px'/><br/>Q7 Riverside Complex</a>. LH 0934159936. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://hungthinhland24h.vn/can-ho-q7-saigon-riverside-q7.html' target='_blank'><img src='http://hungthinhland24h.vn/upload/images/0014(1).jpg' width='500px'/><br/>Q7 Riverside Complex</a>. LH 0934159936. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
